@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'B Yekan';
+    src: url('../../Fonts/BYekan.eot?#') format('eot'),
+    url('../../Fonts/BYekan.woff') format('woff'),
+    url('../../Fonts/BYekan.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'B Nazanin';
+    src: url('../../Fonts/BNazanin.eot?#') format('eot'),
+    url('../../Fonts/BNazanin.woff') format('woff'),
+    url('../../Fonts/BNazanin.ttf') format('truetype');
+}
